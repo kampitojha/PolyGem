@@ -1,0 +1,5 @@
+{
+  "name": "PolyGen Creative Suite",
+  "description": "A multi-functional React application featuring AI-powered SVG generation, a 3D-styled block game, and a real-time analytics dashboard.",
+  "requestFramePermissions": []
+}
